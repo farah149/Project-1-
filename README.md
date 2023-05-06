@@ -13,7 +13,7 @@ int main()
                                                 printf("%d\t",i);
                                 }
                 printf("\n\n%ld\n",sum);
-                
+      return 0          
 
 }
- return 0
+ 
